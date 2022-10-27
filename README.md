@@ -7,7 +7,7 @@ Discord rich presence for Overwatch 2 in Linux. Let your friend know you play Ov
 Make sure you already installed Pypresence:
 
 ```sh
-pip instal pypresence
+pip install pypresence
 ```
 
 This script supposed to work with some hook when you launch the game.
