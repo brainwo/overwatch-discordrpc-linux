@@ -3,6 +3,7 @@
 from pypresence import Presence
 import psutil
 import time
+import sys
 
 """
 Check README.md if you need help to change the code
@@ -16,6 +17,8 @@ RPC.update(start=int(time.time()))
 
 while True:
     if any(map(lambda x: (x.name().lower() == "overwatch.exe"), psutil.process_iter())) == False:
-        quit()
+        RPC.clear()
+        RPC.close()
+        sys.exit()
 
     time.sleep(15)
