@@ -1,6 +1,6 @@
 ### Overwatch 2 Discord RPC
 
-Discord Rich Presence for Overwatch 2 in Linux. Let your friend know you play Overwatch 2 or any other games (with some tweaking).
+Discord Rich Presence for Overwatch 2 in Linux. Let your friends know you play Overwatch 2 or any other games (with some tweaking).
 
 ![](img/playing_status.png)
 
