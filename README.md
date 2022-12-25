@@ -27,3 +27,6 @@ To get any other games `client_id`, open dev tool then copy the id part of image
 ![](img/dev_tool.png)
 
 `client_id` should appear next to `.../app-icons/`.
+
+**Some client id:**
+Minecraft: 356875570916753438
